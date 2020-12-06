@@ -90,7 +90,7 @@ html {
     z-index: 10;
 }
 
-links {
+.links {
     display: inline;
     padding-left: 33px;
     padding-right: 25px;
